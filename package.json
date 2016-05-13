@@ -12,5 +12,8 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Originate/o-tools-livescript.git"
+  },
+  "devDependencies": {
+    "o-tools": "0.2.0"
   }
 }
