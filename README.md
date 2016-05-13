@@ -1,6 +1,9 @@
 # O-Tools for LiveScript
 > build and watch scripts for LiveScript developers
 
+[![CircleCI](https://circleci.com/gh/Originate/o-tools-livescript.svg?style=shield)](https://circleci.com/gh/Originate/o-tools-livescript)
+
+
 This NPM module provides the `build` and `watch` scripts for compiling LiveScript code bases.
 
 
