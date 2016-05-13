@@ -1,0 +1,16 @@
+{
+  "name": "o-tools-livescript",
+  "version": "1.0.0",
+  "author": "Kevin Goslar",
+  "description": "O-Tools for LiveScript developers",
+  "files": [
+    "bin"
+  ],
+  "homepage": "https://github.com/Originate/o-tools-livescript#readme",
+  "license": "ISC",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Originate/o-tools-livescript.git"
+  }
+}
