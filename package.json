@@ -1,6 +1,6 @@
 {
   "name": "o-tools-livescript",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "Kevin Goslar",
   "bin": {
     "build": "bin/build",
