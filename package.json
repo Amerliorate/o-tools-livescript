@@ -2,6 +2,10 @@
   "name": "o-tools-livescript",
   "version": "1.0.0",
   "author": "Kevin Goslar",
+  "bin": {
+    "build": "bin/build",
+    "watch": "bin/watch"
+  },
   "description": "O-Tools for LiveScript developers",
   "files": [
     "bin"
