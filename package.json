@@ -8,7 +8,8 @@
   },
   "description": "O-Tools for LiveScript developers",
   "files": [
-    "bin"
+    "bin/build",
+    "bin/watch"
   ],
   "homepage": "https://github.com/Originate/o-tools-livescript#readme",
   "license": "ISC",
