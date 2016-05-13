@@ -2,6 +2,8 @@
 > build and watch scripts for LiveScript developers
 
 [![CircleCI](https://circleci.com/gh/Originate/o-tools-livescript.svg?style=shield)](https://circleci.com/gh/Originate/o-tools-livescript)
+[![Dependency Status](https://david-dm.org/originate/o-tools-livescript.svg)](https://david-dm.org/originate/o-tools-livescript)
+[![devDependency Status](https://david-dm.org/originate/o-tools-livescript/dev-status.svg)](https://david-dm.org/originate/o-tools-livescript#info=devDependencies)
 
 
 This NPM module provides the `build` and `watch` scripts for compiling LiveScript code bases.
