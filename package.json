@@ -7,6 +7,9 @@
     "watch": "bin/watch"
   },
   "description": "O-Tools for LiveScript developers",
+  "devDependencies": {
+    "o-tools": "0.2.0"
+  },
   "files": [
     "bin/build",
     "bin/watch"
@@ -16,8 +19,5 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Originate/o-tools-livescript.git"
-  },
-  "devDependencies": {
-    "o-tools": "0.2.0"
   }
 }
