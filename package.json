@@ -14,7 +14,7 @@
     "bin/build",
     "bin/watch"
   ],
-  "homepage": "https://github.com/Originate/o-tools-livescript#readme",
+  "homepage": "https://github.com/Originate/o-tools-livescript",
   "license": "ISC",
   "repository": {
     "type": "git",
