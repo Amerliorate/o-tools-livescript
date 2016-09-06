@@ -14,8 +14,7 @@
     "o-tools": "0.3.4"
   },
   "files": [
-    "bin/build",
-    "bin/watch"
+    "bin"
   ],
   "homepage": "https://github.com/Originate/o-tools-livescript",
   "license": "ISC",
