@@ -4,7 +4,11 @@
   "author": "Kevin Goslar",
   "bin": {
     "build": "bin/build",
-    "watch": "bin/watch"
+    "build.cmd": "bin/build.cmd",
+    "spec": "bin/spec",
+    "spec.cmd": "bin/spec.cmd",
+    "watch": "bin/watch",
+    "watch.cmd": "bin/watch.cmd"
   },
   "dependencies": {
     "livescript": "1.5.0"
