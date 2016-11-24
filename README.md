@@ -1,5 +1,4 @@
-# O-Tools for LiveScript
-> build and watch scripts for LiveScript developers
+<img src="documentation/logo.png" width="976" height="111" alt="logo">
 
 [![CircleCI](https://circleci.com/gh/Originate/o-tools-livescript.svg?style=shield)](https://circleci.com/gh/Originate/o-tools-livescript)
 [![Dependency Status](https://david-dm.org/originate/o-tools-livescript.svg)](https://david-dm.org/originate/o-tools-livescript)
